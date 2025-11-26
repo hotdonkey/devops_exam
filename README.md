@@ -5,9 +5,9 @@
 
 ## Список решений
 
-1. [001 - Выбор Flask в качестве веб-фреймворка](001-выбор-flask-в-качестве-веб-фреймворка.md)
-2. [002 - Использование Docker контейнеризации](002-использование-docker-контейнеризации.md)
-3. [003 - Развертывание в Yandex Cloud Serverless Containers](003-развертывание-в-yandex-cloud-serverless-containers.md)
+1. [001 - Выбор Flask в качестве веб-фреймворка](https://github.com/hotdonkey/devops_exam/blob/main/adr_records/0001-record-architecture-decisions.md)
+2. [002 - Использование Docker контейнеризации](https://github.com/hotdonkey/devops_exam/blob/main/adr_records/0002-выбор-flask-в-качестве-веб-фреймворка.md)
+3. [003 - Развертывание в Yandex Cloud Serverless Containers](https://github.com/hotdonkey/devops_exam/blob/main/adr_records/0003-использование-docker-контейнеризации.md)
 
 ## Процесс принятия решений
 
